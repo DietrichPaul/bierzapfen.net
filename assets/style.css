@@ -1,0 +1,44 @@
+body {
+    height: 100%;
+    background-color: #1D1D1D;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    font-size: small;
+    padding: 15px;
+    overflow: hidden;
+}
+
+section {
+    padding: 5px;
+    margin: 5px;
+}
+
+article {
+    background-color: #0E0E0E;
+    border-radius: 25px;
+    border: 1px solid white;
+    padding: 25px;
+    display: table;
+    width: auto;
+    max-width: 800px;
+    margin: 10px;
+    margin: 15px auto;
+}
+
+header {
+    text-align: center;
+    display: inline;
+}
+
+article header {
+    text-align: left;
+}
+
+ol li {
+    padding: 10px;
+}
+
+header table {
+    margin-left: auto;
+    margin-right: auto;
+}
